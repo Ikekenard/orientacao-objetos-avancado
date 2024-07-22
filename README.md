@@ -5,6 +5,6 @@ Aqui eu pus em prática conceitos de :
 
 - Herança
 - Quando não se usar herança
-- Poliformismo
+- Polimorfismo
 - Ducky Typing
 - Herança Multipla 
